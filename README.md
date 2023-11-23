@@ -37,3 +37,7 @@ AWS_REGION =
 AWS_ECR_LOGIN_URI = 
 
 ECR_REPOSITORY_NAME = 
+
+
+RUNNER
+name of runner  : self-hosted
